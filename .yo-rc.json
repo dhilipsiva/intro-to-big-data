@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Introduction to Big Data with practical use-cases",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "dhilipsiva",
+    "githubRepository": "intro-to-big-data"
+  }
+}
