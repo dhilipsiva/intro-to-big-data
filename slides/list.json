@@ -103,5 +103,23 @@
         "attr": {
             "data-background": "#ff0000"
         }
+    },
+    {
+        "filename": "hadoop-co.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "demo.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
     }
 ]
