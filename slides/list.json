@@ -3,123 +3,123 @@
     {
         "filename": "dhilipsiva.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#FD5B03"
         }
     },
     {
         "filename": "data-history.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#EB9532"
         }
     },
     [
         {
             "filename": "punched-cards.md",
             "attr": {
-                "data-background": "#ff0000"
+                "data-background": "#8870FF"
             }
         },
         {
             "filename": "surprise-surprise.md",
             "attr": {
-                "data-background": "#ff0000"
+                "data-background": "#BB3658"
             }
         }
     ],
     {
         "filename": "data-today.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#64DDBB"
         }
     },
     {
         "filename": "data-tomorrow.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#112233"
         }
     },
     {
         "filename": "computers-back-then.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#F6CD61"
         }
     },
     {
         "filename": "computers-today.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#FFDE49"
         }
     },
     {
         "filename": "computers-tomorrow.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#F9AE74"
         }
     },
     {
         "filename": "inputs-back-then.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#9EA97F"
         }
     },
     {
         "filename": "inputs-today.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#6D4B11"
         }
     },
     {
         "filename": "big-data.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#EC555C"
         }
     },
     {
         "filename": "but-wait.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#72F274"
         }
     },
     {
         "filename": "census.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#C878AB"
         }
     },
     {
         "filename": "moral-of-the-story.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#FD1254"
         }
     },
     {
         "filename": "hadoop-to-the-resque.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#3897D9"
         }
     },
     {
         "filename": "google-mapreduce.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#AA8C91"
         }
     },
     {
         "filename": "hadoop-co.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#9C410A"
         }
     },
     {
         "filename": "demo.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#BF4ACC"
         }
     },
     {
         "filename": "thanks.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#282830"
         }
     }
 ]
