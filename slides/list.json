@@ -117,9 +117,45 @@
         }
     },
     {
+        "filename": "real-world-applications.md",
+        "attr": {
+            "data-background": "#FFDE49"
+        }
+    },
+    {
+        "filename": "applications-google.md",
+        "attr": {
+            "data-background": "#FD5B03"
+        }
+    },
+    {
+        "filename": "applications-facebook.md",
+        "attr": {
+            "data-background": "#9C410A"
+        }
+    },
+    {
+        "filename": "applications-twitter.md",
+        "attr": {
+            "data-background": "#8870FF"
+        }
+    },
+    {
+        "filename": "applications-others.md",
+        "attr": {
+            "data-background": "#ff00ff"
+        }
+    },
+    {
+        "filename": "applications-future.md",
+        "attr": {
+            "data-background": "#EB9532"
+        }
+    },
+    {
         "filename": "thanks.md",
         "attr": {
             "data-background": "#282830"
         }
-    }
+    },
 ]
